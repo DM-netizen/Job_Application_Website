@@ -1,8 +1,23 @@
-# React + Vite
+<h1>Overview</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web-based platform for job seekers and employers. Job seekers can create profiles, browse job listings, apply for jobs, and track their applications. Employers can post job openings, manage applications, and search for candidates based on skills and qualifications. The platform aims to streamline the job application process for both job seekers and employers.
 
-Currently, two official plugins are available:
+<h1>Features</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>For Job Seekers</h2>
+
+<b>Profile Creation</b>: Create and update personal profiles with resume upload.
+
+<b>Apply for Jobs</b>: Submit applications directly through the platform.
+
+
+<h2>For Employers</h2>
+
+Job Posting: Post job openings and view applicant details.
+
+Company Profiles: Create a company profile that includes your branding and details about your organization.
+
+
+<h2>Technologies Used</h2>
+
+<b>Frontend</b>: HTML, CSS, JavaScript, React.js
